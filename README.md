@@ -1,4 +1,6 @@
-# fuwenben
+# 一个vue-cli3版本的WangEditor模板
+#[WangEditor文档](https://www.kancloud.cn/wangfupeng/wangeditor3/332599)
+##已默认安装Nodejs
 
 ## Project setup
 ```
